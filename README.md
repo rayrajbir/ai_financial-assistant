@@ -6,7 +6,7 @@ AI Financial Assistant is an interactive tool that provides financial insights b
 
 - **Chat-Based Interface**: Ask financial questions and get AI-powered responses.
 - **User Financial Data Input**: Provide your balance, expenses, and investments for personalized answers.
-- **Powered by FLAN-T5**: Uses a lightweight yet powerful transformer model.
+- **Powered by FLAN-T5**: Uses a lightweight yet powerful transformer model fine-tuned for financial questions.
 - **Web App with Streamlit**: Easy-to-use interactive UI.
 - **Yahoo Finance API Integration**: Uses `yfinance` to fetch real-time stock market data.
 - **Customizable & Extendable**: Modify the model or data handling as needed.
