@@ -81,7 +81,6 @@ Modify `app.py` to adjust model parameters or integrate additional financial dat
 ## 🛠 Future Enhancements
 
 - ✅ Try out other models to improve performance and accuracy and give more reliable financial advice
-- ✅ Integrate external financial APIs (e.g., stock market data)
 - ✅ Add a chatbot memory for contextual conversations
 - ✅ Add features so that it can take user data thorugh images, csv as well as in json format
 
