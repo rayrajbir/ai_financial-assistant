@@ -40,7 +40,7 @@ cd ai_financial_assistant
 
 ### 2️⃣ Create a Virtual Environment (Optional but Recommended)
 
-```bash
+```cmd/bash
 python -m venv .env
 source .env/bin/activate  # On macOS/Linux
 .env\Scripts\activate     # On Windows
@@ -80,10 +80,10 @@ Modify `app.py` to adjust model parameters or integrate additional financial dat
 
 ## 🛠 Future Enhancements
 
-- ✅ Fine-tune FLAN-T5 with financial datasets
+- ✅ Try out other models to improve performance and accuracy and give more reliable financial advice
 - ✅ Integrate external financial APIs (e.g., stock market data)
 - ✅ Add a chatbot memory for contextual conversations
-- ✅ Expand `yfinance` capabilities for in-depth stock analysis
+- ✅ Add features so that it can take user data thorugh images, csv as well as in json format
 
 ---
 
