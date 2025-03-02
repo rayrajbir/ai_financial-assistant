@@ -86,5 +86,5 @@ This project is licensed under the **MIT License**.
 ---
 
 ### 🎯 Author
-**RAJBIR RAY** – [LinkedIn](**https://www.linkedin.com/in/rajbir-ray-9608852b5/**)
+**RAJBIR RAY** – [LinkedIn](https://www.linkedin.com/in/rajbir-ray-9608852b5/)
 
